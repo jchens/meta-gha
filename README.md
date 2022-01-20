@@ -1,8 +1,8 @@
 # JENGA Meta
 <img src="https://user-images.githubusercontent.com/53293116/150418094-e0575ad8-7598-473d-85a0-6289526e2d1c.jpeg" alt="JENGA" width="185" height="185">
 
-# TODO: Project Synopsis
-We are excited to explore positive gamification of historical education through researching these techniques: 
+# Project Synopsis
+We are excited to explore positive gamification of historical education through researching and utilizing some of these techniques: 
 - Meeting up with others around the world at historical sights. How do we make these GATHERING spaces 
 - Interactive walls where you can leave messages and momentos for others (remincent of "lock bridges" in Paris) 
 - Storyline games throughout different historical locations (Poptripica inspired, mini games!) 
