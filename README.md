@@ -1,5 +1,9 @@
 # JENGA Meta
 
+# TODO: Team Logo 
+
+# TODO: Theme Music 
+
 # Team Members
 Member | Email | Photo
 --- | --- | ---
@@ -16,6 +20,9 @@ Jessica | Green | UI/UX Design, Prototyping, Mobile Development | Imaginative, D
 Gizem | Yellow | Full-stack development, User testing, UI/UX Design, Project Management | Creative, Bubbly | Game Design, VR programming | Drawing and painting, loses focus in 1h+ meetings
 Emily |  | Product management, User Research, Algorithms/programming, Front-end development, Writing/Communication | Cheerful, Time-efficient | Development skills, technical prototyping | Scheduling availability
 Nicholas | Yellow | 3D Modeling, Graphics Programming, Prototyping, Mobile Development | Relaxed, Optimistic | Product Management, Unity Development | Tends to hyperfocus easily
+
+# TODO: Project Synopsis
+
 
 # Team Communication
 
