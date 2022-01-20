@@ -2,6 +2,13 @@
 <img src="https://user-images.githubusercontent.com/53293116/150418094-e0575ad8-7598-473d-85a0-6289526e2d1c.jpeg" alt="JENGA" width="185" height="185">
 
 # TODO: Project Synopsis
+We are excited to explore positive gamification of historical education through researching these techniques: 
+- Meeting up with others around the world at historical sights. How do we make these GATHERING spaces 
+- Interactive walls where you can leave messages and momentos for others (remincent of "lock bridges" in Paris) 
+- Storyline games throughout different historical locations (Poptripica inspired, mini games!) 
+- Take the perspective of a different type of person every time you travel to a location (different profession, different social class)
+- You're an archelogist! Excavate ruins and find treature 
+- See the transformation of historical sites over time every time you visit 
 
 # Theme Music 
 Listen to our team playlist [here](https://youtube.com/playlist?list=PLtyOBjXWy5eeHbsgqed_f1EVWohBMDn7w).
@@ -20,7 +27,7 @@ Member | Hat | Skills | Personal Traits | Desired Growth | Weaknesses
 --- | --- | --- | --- | --- | ---
 Jessica | Green | UI/UX Design, Prototyping, Mobile Development | Imaginative, Determined | VR development, Game design | Deadlines
 Gizem | Yellow | Full-stack development, User testing, UI/UX Design, Project Management | Creative, Bubbly | Game Design, VR programming | Drawing and painting, loses focus in 1h+ meetings
-Emily | Blue | Product management, User Research, Algorithms/programming, Front-end development, Writing/Communication | Cheerful, Time-efficient | Development skills, technical prototyping | Scheduling availability
+Emily | Blue | Product management, User Research, Algorithms/programming, Front-end development, Writing/Communication | Cheerful, Time-efficient | Development skills, technical prototyping | Perfectionist-- rapid-protyping 
 Nicholas | Yellow | 3D Modeling, Graphics Programming, Prototyping, Mobile Development | Relaxed, Optimistic | Product Management, Unity Development | Tends to hyperfocus easily
 
 
