@@ -10,6 +10,8 @@ We are excited to explore positive gamification of historical education through 
 - You're an archelogist! Excavate ruins and find treature 
 - See the transformation of historical sites over time every time you visit 
 
+Check out the wiki [here](https://github.com/cs210/2022-Meta2/wiki) for a more in-depth overview.
+
 # Theme Music 
 Listen to our team playlist [here](https://youtube.com/playlist?list=PLtyOBjXWy5eeHbsgqed_f1EVWohBMDn7w).
 
