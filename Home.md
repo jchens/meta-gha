@@ -1,4 +1,4 @@
-![Jenga Meta Logo (a blue j)](https://user-images.githubusercontent.com/53293116/150418094-e0575ad8-7598-473d-85a0-6289526e2d1c.jpeg)
+<img src="https://user-images.githubusercontent.com/53293116/150418094-e0575ad8-7598-473d-85a0-6289526e2d1c.jpeg" alt="JENGA" width="185" height="185">
 
 
 
