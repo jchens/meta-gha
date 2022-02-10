@@ -36,6 +36,7 @@ Our meeting with Lilly was insightful and revealed new challenges and ideas. Our
 
 
 # Liaison Feedback
-
+We met with Hassan Karaouni, Head of New Product R&D @ Facebook Reality Labs EdMod to align our ideas with the objectives of GHA project and further narrow down our product space. We incorporated Lilly's feedback, brainstormed new themes around the POV idea and came up with three directions our project can go which are found under POV Options in [this document](https://docs.google.com/document/d/1vc86Vj5eylCxs-OkJDsJcPc2PU_c3xslQeXZlWBBhqI/edit?usp=sharing).
 
 ## Feedback
+Karaouni noted that our story- and perspective-driven approach to this project is unique and informed us about various immersive experiences such as the Holocaust Museum and Alcatraz which we can research in order to develop our idea around implementing a POV in GHA. In the light of this feedback and discussion of our brainstormed ideas, we decided to proceed with the second POV Option we generated which is to implement a TOUR GUIDE(S) who are the Historical figures or characters and the user plays as a tourist/themselves.
