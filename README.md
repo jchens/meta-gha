@@ -1,4 +1,5 @@
 # JENGA Meta
+<img src="https://img.shields.io/badge/%F0%9F%8E%89%20CS%20210%20Best%20Of-Rapid%20Prototype:%20Best%20Overall-teal?colorA=ffd700"/>
 <img src="https://user-images.githubusercontent.com/53293116/150418094-e0575ad8-7598-473d-85a0-6289526e2d1c.jpeg" alt="JENGA" width="185" height="185">
 
 # Project Synopsis
