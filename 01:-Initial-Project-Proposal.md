@@ -25,6 +25,10 @@ To brainstorm concrete ideas for features to be placed into GHA, we had to first
 
 To prepare for the project proposal, we also thought of existing game features and ranked them into three tiers according to how much we wanted them in our final project: (1) must-have, (2) nice-to-have, and (3) not-needed. 
 
+## Initial User Interviews
+[[User Interviews: Guide + Notes]](https://docs.google.com/document/d/1Wsiz4iOQ9asCw69SYV9yw9xo5LJGX-IeKA7GV_CjVUE/edit?usp=sharing)
+To develop more insight into potential users/features for GHA, we also interviewed a diverse pool of participants based on their travel, gaming, and VR experience.
+
 
 # Project Proposal + Three Themes
 [[Project Proposal: Presentation]](https://docs.google.com/presentation/d/1HkqEFOvLN4pENLsjFz1Ut8GpA_FffSuqi2uENYexlsg/edit?usp=sharing)
@@ -46,7 +50,5 @@ After many rounds of researching and ranking features, we arrived at the three m
 * HMW enrich the exploration process by allowing friends to explore historical sites together?
 
 Using the three themes, we conducted research to find examples, user experiences, and academic articles that supported our rationale, and consolidated our findings in our project proposal presentation.
-
-
 
 
