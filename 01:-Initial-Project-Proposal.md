@@ -41,9 +41,10 @@ _For example, Assassin's Creed: Syndicate was about the Second Industrial Revolu
 _“I think it would be cool to explore the [different] perspective[s] of someone living during a historical time, and someone viewing it through present lens, as a tourist or archeologist. I can imagine that it really adds to the immersive and emotional impact of the story playing out.”_
 
 
-# Project Proposal + Three Themes
+# Project Proposal
 [[Project Proposal: Presentation]](https://docs.google.com/presentation/d/1HkqEFOvLN4pENLsjFz1Ut8GpA_FffSuqi2uENYexlsg/edit?usp=sharing)
 
+## Three Themes
 After many rounds of researching and ranking features, we arrived at the three main themes our project could focus on: cognition, perception, and social. 
 
 **Cognition** – Gamify learning facts, figures, trivia
