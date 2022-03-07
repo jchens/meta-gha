@@ -33,6 +33,13 @@ To prepare for the project proposal, we also thought of existing game features a
 
 To develop more insight into potential users/features for GHA, we also interviewed a diverse pool of participants based on their travel, gaming, and VR experience.
 
+### Notable quotes:
+_“Being able to immerse myself in the culture and people of the historical theme [of Assassin's Creed] led to a lot of unintentional learning._
+
+_For example, Assassin's Creed: Syndicate was about the Second Industrial Revolution in London, and you could meet & interact with people like Charles Dickens and Alexander Graham Bell during missions.”_
+
+_“I think it would be cool to explore the [different] perspective[s] of someone living during a historical time, and someone viewing it through present lens, as a tourist or archeologist. I can imagine that it really adds to the immersive and emotional impact of the story playing out.”_
+
 
 # Project Proposal + Three Themes
 [[Project Proposal: Presentation]](https://docs.google.com/presentation/d/1HkqEFOvLN4pENLsjFz1Ut8GpA_FffSuqi2uENYexlsg/edit?usp=sharing)
