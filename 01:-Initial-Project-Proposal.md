@@ -1,5 +1,8 @@
 # Project Proposal Process
-[[Project Proposal: Overview & Notes]](https://docs.google.com/document/d/14UuYC90K6xecAUvXPUbizvrHcZeSlLuyKm27ZtR2-Jk/edit?usp=sharing)
+[📝 [Project Proposal: Overview & Notes]](https://docs.google.com/document/d/14UuYC90K6xecAUvXPUbizvrHcZeSlLuyKm27ZtR2-Jk/edit?usp=sharing)
+
+[📊 [Project Proposal: Presentation]](https://docs.google.com/presentation/d/1HkqEFOvLN4pENLsjFz1Ut8GpA_FffSuqi2uENYexlsg/edit?usp=sharing)
+
 
 ## Initial Brainstorming
 [[Miro Board]](https://miro.com/app/board/uXjVOU7eO1s=/?invite_link_id=212946382440)
