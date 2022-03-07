@@ -18,18 +18,15 @@ To accomplish this, we envisioned 4 areas of interaction for our prototype:
 3. **Minigame**: Users can participate in activities that Tu Duc and citizens of the time would do.
 4. **Trivia**: Users can earn a badge of completion by answering questions about the knowledge they just gained.
 
-Example: Map
-
+#### Example: Map
 <img width="1019" alt="Screen Shot 2022-03-06 at 6 16 02 PM" src="https://user-images.githubusercontent.com/17817708/156956425-b0346ae4-2c11-48d4-828f-0bbedaedfff4.png">
 
 
-Example: Narrative
-
+#### Example: Narrative
 <img width="625" alt="Screen Shot 2022-03-06 at 6 16 21 PM" src="https://user-images.githubusercontent.com/17817708/156956462-56165698-477d-4c27-8f7e-6b58ebf50078.png">
 
 
-Example: Trivia
-
+#### Example: Trivia
 <img width="640" alt="Screen Shot 2022-03-06 at 6 16 44 PM" src="https://user-images.githubusercontent.com/17817708/156956477-0e7f9091-9c49-4d49-a9e5-00bd244d2409.png">
 
 
@@ -63,12 +60,16 @@ To make sure we were meeting those goals, we tested our prototype with 8 individ
 
 <img width="1028" alt="Screen Shot 2022-03-06 at 6 27 52 PM" src="https://user-images.githubusercontent.com/17817708/156957454-ffe94da5-8b2e-46fa-9b9e-73862c9910fd.png">
 
-## Conclusions
+# Conclusions
+<img src="https://img.shields.io/badge/%F0%9F%8E%89%20CS%20210%20Best%20Of-Rapid%20Prototype:%20Best%20Overall-teal?colorA=ffd700">
+
+We're so proud of all the prototyping and testing we were able to accomplish during a short period of time. We got great feedback and we were very honored to receive the "Best Overall" award out of all prototypes.
+
 Synthesizing all of our results, we arrived at two key points to keep in mind going forward:
 
-1. Narrative was people’s favorite part
-    1. 🔜 Immersive experience
-    2. 🔜 Ability to move and interact
-2. Users enjoy consuming trivia content intentionally
-    1. 🔜 Emphasize narrative-relevant questions
-    2. 🔜 Can access anytime from toolkit
+#### 1. Narrative was people’s favorite part
+    🔜 Immersive experience
+    🔜 Ability to move and interact
+#### 2. Users enjoy consuming trivia content intentionally
+    🔜 Emphasize narrative-relevant questions
+    🔜 Allow access anytime from toolkit
