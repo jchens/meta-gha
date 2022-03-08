@@ -1,9 +1,11 @@
 # Story Outline / Goals 
-TARGET AUDIENCE: Adults who want to learn more about history 
+**TARGET AUDIENCE: **Adults who want to learn more about history 
 	We are focusing on young adults 20-30s 
 
 **CHARACTER: ** User is an “artifact assistant” 
+
 **GOAL:** Character wants to be promoted to an archeologist expert 
+
 **HOW WILL THEY ACCOMPLISH GOAL: **Interacting with XOIs and gaining knowledge about the different parts of Mesa Verde (while enjoying themselves) so they can pass the mesa verde archeological board (ie. trivia game)  
 
 # Script
