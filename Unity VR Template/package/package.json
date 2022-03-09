@@ -1,0 +1,9 @@
+{
+  "name": "com.unity.template.jchens",
+  "displayName": "VR Template",
+  "version": "1.0.0",
+  "type": "template",
+  "unity": "2020.3",
+  "description": "Create an VR project with the XR Interaction plugin, with basic movement & object interactions already set up.",
+  "dependencies": {},
+}
