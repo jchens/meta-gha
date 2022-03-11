@@ -17,7 +17,7 @@ Our demo prototype was a mixture of Figma (for the map, characters, and trivia) 
 
 ## Entrance
 * Before you enter Mesa Verde, you can see how much progress you've made exploring & learning so far
-* Choose your own adventure: explore the world or complete the trivia directly.
+* Choose your own adventure: 1) explore the world or 2) complete the trivia directly.
 
 ![Enter Monument](https://user-images.githubusercontent.com/17817708/157815693-6b5ecdb4-66ce-4b21-9b9f-a298655e2a6a.png)
 
