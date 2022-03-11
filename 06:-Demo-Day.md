@@ -1,6 +1,6 @@
 TODO EMILY: 
 
-TODO: think these questions can be answered under ["Refining Our Prototype"](https://github.com/cs210/2022-Meta2/wiki/05.0:-Refining-Our-Prototype), since the feedback post-rapid prototyping was the main foundation for this iteration. 
+these q's might be answerable under ["Refining Our Prototype"](https://github.com/cs210/2022-Meta2/wiki/05.0:-Refining-Our-Prototype), since the feedback post-rapid prototyping was the main foundation for this iteration. 
 
 * What are the "tailwinds" that have given us conviction in our idea?
 * Why are we going with the final prototype we are going with?
@@ -11,9 +11,9 @@ TODO: think these questions can be answered under ["Refining Our Prototype"](htt
 # Prototype
 [[Figma]](https://www.figma.com/proto/hRpETb4iWhGwjOG1itKpex/Demo%3A-Mesa-Verde?page-id=201%3A990&node-id=201%3A1053&viewport=241%2C48%2C0.47&scaling=contain&starting-point-node-id=201%3A1053&show-proto-sidebar=1)
 
-Our demo prototype was a mixture of Figma (for the map, characters, and trivia) and Unity (for the interactive experiences and trivia).
+[[TODO: Script: Final Draft Link]](google.com)
 
-TODO
+Our demo prototype was a mixture of Figma (for the map, characters, and trivia) and Unity (for the interactive experiences and trivia).
 
 ## Entrance
 * Before you enter Mesa Verde, you can see how much progress you've made exploring & learning so far
@@ -45,7 +45,7 @@ TODO
 
 #### Farmer Minigame
 * Help Colel locate the tool they need to prepare corn before it's cooked in the traditional Puebloan way
-* Built in Unity 🛠 by Nick, representing a slice of the interactive experiences you will encounter on your journey
+* Built in Unity 🛠, representing a slice of the interactive experiences you will encounter on your journey
 
 ![IX #1-2](https://user-images.githubusercontent.com/17817708/157821935-6ec80717-e07f-45bb-8326-526c5bf12ca9.png)
 
@@ -63,10 +63,12 @@ TODO
 
 
 ## Trivia
+[[Trivia Questions]](https://docs.google.com/document/d/1lCOQJV91gxCc38V-8ZAvVmFbs9NWDRoQWBRebsQ_L9A/edit?usp=sharing)
+
 * Choose to exit anytime to enter Mesa Verde's game show!
 * Utilize narrative-relevant questions based on the 3 perspectives showcased in Mesa Verde.
 * Answer questions correctly to earn badges that can be shown off in your passport or trophy room.
-* Unity slice by Nick 🛠
+* Unity slice 🛠
 
 **Entering Trivia**
 ![Overlay Demo](https://user-images.githubusercontent.com/17817708/157829447-07bc5225-02bf-42a8-9dc2-d4582885d76a.png)
@@ -80,7 +82,7 @@ TODO
 ![game show](https://user-images.githubusercontent.com/17817708/157832461-1e111aad-5596-4a0d-b093-3de28c776372.png)
 
 
-## Passport & Trophy Room
+## Collectables (Passport & Trophy Room)
 * Answer questions correctly to earn badges for your passport.
 * In addition, view a room dedicated to your collectables from inside Mesa Verde and the game show.
     * Goal: Motivate you to return in order to collect all the badges and items.
@@ -97,6 +99,7 @@ TODO
 
 ![Trophy Room 3](https://user-images.githubusercontent.com/17817708/157831825-1efb91e7-2dc8-465f-8789-43c3959cfd40.png)
 
+# Credits
 
 # Looking to Next Quarter
 TODO, from Hassan: "You don't need to have a full answer on the Loop and Drivers questions. We could even dedicate ~30 minutes to working more on that together. However, those are useful questions for us to answer to align on and prioritize explorations next quarter."
