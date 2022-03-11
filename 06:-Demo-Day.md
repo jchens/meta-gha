@@ -100,6 +100,7 @@ Our demo prototype was a mixture of Figma (for the map, characters, and trivia) 
 ![Trophy Room 3](https://user-images.githubusercontent.com/17817708/157831825-1efb91e7-2dc8-465f-8789-43c3959cfd40.png)
 
 # Credits
+It truly takes a village - thanks to everyone involved with our demo!
 | **_Feature_**    | **_Thanks to..._**                                                          |
 |------------------|-----------------------------------------------------------------------------|
 | **Script**       | Emily: Writer<br> Sofia & Adam: Feedback                                    |
