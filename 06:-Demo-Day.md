@@ -68,7 +68,7 @@ Our demo prototype was a mixture of Figma (for the map, characters, and trivia) 
 * Choose to exit anytime to enter Mesa Verde's game show!
 * Includes narrative-relevant questions based on the 3 perspectives showcased in Mesa Verde.
 * Answer questions correctly to earn badges that can be shown off in your passport or trophy room.
-* Unity slice 🛠
+* Unity slice illustrates how you can view and get hints from the 3 people you met 🛠
 
 **Entering Trivia**
 ![Overlay Demo](https://user-images.githubusercontent.com/17817708/157829447-07bc5225-02bf-42a8-9dc2-d4582885d76a.png)
