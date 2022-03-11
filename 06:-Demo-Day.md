@@ -34,3 +34,15 @@ TODO
 ## Trivia
 
 ## Passport & Trophy Room
+
+# Looking to Next Quarter
+TODO, from Hassan: "You don't need to have a full answer on the Loop and Drivers questions. We could even dedicate ~30 minutes to working more on that together. However, those are useful questions for us to answer to align on and prioritize explorations next quarter."
+
+## Insights
+* What are the top insights you developed this quarter? I can also review these in advance if you share them.
+## Loop
+* What is the core loop / user journey (we also call this a story map) you want to keep exploring next quarter?
+
+## Drivers
+* How do you want people to feel at various stages of the loop (eager to win, eager to collaborate, curious to learn more, etc)? 
+    * TODO: user journey diagram
