@@ -66,7 +66,7 @@ Our demo prototype was a mixture of Figma (for the map, characters, and trivia) 
 [[Trivia Questions]](https://docs.google.com/document/d/1lCOQJV91gxCc38V-8ZAvVmFbs9NWDRoQWBRebsQ_L9A/edit?usp=sharing)
 
 * Choose to exit anytime to enter Mesa Verde's game show!
-* Utilize narrative-relevant questions based on the 3 perspectives showcased in Mesa Verde.
+* Includes narrative-relevant questions based on the 3 perspectives showcased in Mesa Verde.
 * Answer questions correctly to earn badges that can be shown off in your passport or trophy room.
 * Unity slice 🛠
 
@@ -100,6 +100,18 @@ Our demo prototype was a mixture of Figma (for the map, characters, and trivia) 
 ![Trophy Room 3](https://user-images.githubusercontent.com/17817708/157831825-1efb91e7-2dc8-465f-8789-43c3959cfd40.png)
 
 # Credits
+| **_Feature_**    | **_Thanks to..._**                                                          |
+|------------------|-----------------------------------------------------------------------------|
+| **Script**       | Emily: Writer<br> Sofia & Adam: Feedback                                    |
+| **Entrance**     | Emily: Screenshots<br> Jessica: Figma                                       |
+| **Intro**        | Emily: Voice & Recording<br> Jessica: Figma & Recording                     |
+| **Map**          | Nick: Screenshots<br> Jessica: Figma                                        |
+| **Farmer XOI**   | Emily: Voice & Recording<br> Nick: Unity & Recording<br> Jessica: Figma     |
+| **Builder XOI**  | Nick: Voice<br> Emily: Recording<br> Jessica: Figma & Recording             |
+| **Artisan XOI**  | Brentley: Voice<br> Nick: Recording<br> Emily: Recording<br> Jessica: Figma |
+| **Trivia**       | Gigi: Questions & Figma<br> Nick: Unity                                     |
+| **Collectables** | Gigi: Figma (Passport)<br> Jessica: Figma (Trophy Room)                     |
+| **Poster**       | Emily: Designer                                                             |
 
 # Looking to Next Quarter
 TODO, from Hassan: "You don't need to have a full answer on the Loop and Drivers questions. We could even dedicate ~30 minutes to working more on that together. However, those are useful questions for us to answer to align on and prioritize explorations next quarter."
