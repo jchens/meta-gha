@@ -17,6 +17,12 @@ When working in VR development, you have the choice to work with existing packag
 1. Go to edit > project settings. Navigate to XR plug-in management using the sidebar. Check the boxes for Oculus under desktop and android settings.
 1. You are now ready to start working on your project!
 
+### VR Interaction Toolkit
+1. Clone the VRTK Repository [here](https://github.com/ExtendRealityLtd/VRTK).
+1. In Unity Hub, add a new project from the disk and select the cloned repository.
+1. Update and install your editor to match the version.
+1. You are now ready to work with VRTK! You can view a sample project in Assets > VRTK > Samples.
+
 
 ## Building and running your project
 1. First, enable developer mode on your Oculus headset. You can do this by accessing the settings within the headset environment or using the mobile companion App.
