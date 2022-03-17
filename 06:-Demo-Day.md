@@ -98,9 +98,9 @@ It truly takes a village - thanks to everyone involved with our demo!
 |------------------|--------------------------------------------------------------------------------------------|
 | **Script**       | Emily: Writer<br> Sofia & Adam: Feedback                                                   |
 | **Poster**       | Emily: Design                                                                              |
-| **Entrance**     | Jessica: Figma<br> Nick: Screenshots                                                       |
+| **Entrance**     | Jessica: Figma                                                                             |
 | **Intro**        | Jessica: Figma & Recording<br> Emily: Voice & Recording                                    |
-| **Map**          | Nick: Screenshots<br> Jessica: Figma                                                       |
+| **Map**          | Jessica: Figma                                                                             |
 | **Farmer XOI**   | Nick: Unity & Recording<br> Jessica: Figma & Video Editing<br> Emily: Voice & Recording    |
 | **Builder XOI**  | Nick: Voice<br> Jessica: Figma & Recording & Video Editing<br> Emily: Recording            |
 | **Artisan XOI**  | Nick: Recording<br>Jessica: Figma & Video Editing<br> Emily: Recording<br> Brentley: Voice |
