@@ -1,9 +1,10 @@
-TODO EMILY: 
+/* TODO EMILY: 
 
 these q's might be answerable under ["Refining Our Prototype"](https://github.com/cs210/2022-Meta2/wiki/05.0:-Refining-Our-Prototype), since the feedback post-rapid prototyping was the main foundation for this iteration. 
 
 * What are the "tailwinds" that have given us conviction in our idea?
 * Why are we going with the final prototype we are going with?
+*/
 
 # Poster
 ![CS210 Demo Poster](https://user-images.githubusercontent.com/17817708/157810580-a9b642fc-b0dc-4013-b963-4d113c672ffe.png)
@@ -11,7 +12,7 @@ these q's might be answerable under ["Refining Our Prototype"](https://github.co
 # Prototype
 [[Figma]](https://www.figma.com/proto/hRpETb4iWhGwjOG1itKpex/Demo%3A-Mesa-Verde?page-id=201%3A990&node-id=201%3A1053&viewport=241%2C48%2C0.47&scaling=contain&starting-point-node-id=201%3A1053&show-proto-sidebar=1)
 
-[[TODO: Script: Final Draft Link]](google.com)
+[[Script: Final Draft]](https://docs.google.com/document/d/1h_SijQJ2b7o-qewp4znXbVXI9_-6XGWffc9aWzhhns0/edit?usp=sharing)
 
 Our demo prototype was a mixture of Figma (for the map, characters, and trivia) and Unity (for the interactive experiences and trivia).
 
@@ -101,18 +102,18 @@ Our demo prototype was a mixture of Figma (for the map, characters, and trivia) 
 
 # Credits
 It truly takes a village - thanks to everyone involved with our demo!
-| **_Feature_**    | **_Thanks to..._**                                                          |
-|------------------|-----------------------------------------------------------------------------|
-| **Script**       | Emily: Writer<br> Sofia & Adam: Feedback                                    |
-| **Entrance**     | Emily: Screenshots<br> Jessica: Figma                                       |
-| **Intro**        | Emily: Voice & Recording<br> Jessica: Figma & Recording                     |
-| **Map**          | Nick: Screenshots<br> Jessica: Figma                                        |
-| **Farmer XOI**   | Emily: Voice & Recording<br> Nick: Unity & Recording<br> Jessica: Figma     |
-| **Builder XOI**  | Nick: Voice<br> Emily: Recording<br> Jessica: Figma & Recording             |
-| **Artisan XOI**  | Brentley: Voice<br> Nick: Recording<br> Emily: Recording<br> Jessica: Figma |
-| **Trivia**       | Gigi: Questions & Figma<br> Nick: Unity                                     |
-| **Collectables** | Gigi: Figma (Passport)<br> Jessica: Figma (Trophy Room)                     |
-| **Poster**       | Emily: Designer                                                             |
+| **_Feature_**    | **_Thanks to..._**                                                                         |
+|------------------|--------------------------------------------------------------------------------------------|
+| **Script**       | Emily: Writer<br> Sofia & Adam: Feedback                                                   |
+| **Poster**       | Emily: Design                                                                              |
+| **Entrance**     | Jessica: Figma<br> Nick: Screenshots                                                       |
+| **Intro**        | Jessica: Figma & Recording<br> Emily: Voice & Recording                                    |
+| **Map**          | Nick: Screenshots<br> Jessica: Figma                                                       |
+| **Farmer XOI**   | Nick: Unity & Recording<br> Jessica: Figma & Video Editing<br> Emily: Voice & Recording    |
+| **Builder XOI**  | Nick: Voice<br> Jessica: Figma & Recording & Video Editing<br> Emily: Recording            |
+| **Artisan XOI**  | Nick: Recording<br>Jessica: Figma & Video Editing<br> Emily: Recording<br> Brentley: Voice |
+| **Trivia**       | Gigi: Questions & Figma<br>Nick: Unity                                                     |
+| **Collectables** | Gigi: Figma (Passport)<br>Jessica: Figma (Trophy Room)                                     |
 
 # Looking to Next Quarter
 TODO, from Hassan: "You don't need to have a full answer on the Loop and Drivers questions. We could even dedicate ~30 minutes to working more on that together. However, those are useful questions for us to answer to align on and prioritize explorations next quarter."
