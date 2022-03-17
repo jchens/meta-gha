@@ -111,13 +111,18 @@ It truly takes a village - thanks to everyone involved with our demo!
 TODO, from Hassan: "You don't need to have a full answer on the Loop and Drivers questions. We could even dedicate ~30 minutes to working more on that together. However, those are useful questions for us to answer to align on and prioritize explorations next quarter."
 
 ## Insights
-* What are the top insights you developed this quarter? I can also review these in advance if you share them.
+What are the top insights you developed this quarter? I can also review these in advance if you share them.
+
+* Characters
+    * Naming, voice acting, and recording the movements of the character added to the immersion
+* Trivia
+    * 70/30 rule - Users should be able to answer/reasonably guess 70% of the questions, with the other 30% stumping the user.
 
 ## Loop
-* What is the core loop / user journey (we also call this a story map) you want to keep exploring next quarter?
+What is the core loop / user journey (we also call this a story map) you want to keep exploring next quarter?
 
 ## Drivers
-* How do you want people to feel at various stages of the loop (eager to win, eager to collaborate, curious to learn more, etc)? 
+How do you want people to feel at various stages of the loop (eager to win, eager to collaborate, curious to learn more, etc)? 
 
 ![user journey](https://user-images.githubusercontent.com/17817708/158890781-5a15a623-dd49-4fb8-9896-c244b8f949d2.png)
 
