@@ -3,13 +3,10 @@
 <img src="https://user-images.githubusercontent.com/53293116/150418094-e0575ad8-7598-473d-85a0-6289526e2d1c.jpeg" alt="JENGA" width="185" height="185">
 
 # Project Synopsis
-We are excited to explore positive gamification of historical education through researching and utilizing some of these techniques: 
-- Meeting up with others around the world at historical sights. How do we make these GATHERING spaces 
-- Interactive walls where you can leave messages and momentos for others (remincent of "lock bridges" in Paris) 
-- Storyline games throughout different historical locations (Poptripica inspired, mini games!) 
-- Take the perspective of a different type of person every time you travel to a location (different profession, different social class)
-- You're an archelogist! Excavate ruins and find treature 
-- See the transformation of historical sites over time every time you visit 
+We are excited to explore the gamification of historical education within GHA. We are currently exploring these core game mechanics: 
+- Character Perspectives and Storylines
+- Interactive Mini-Games
+- Immersive Trivia
 
 Check out the wiki [here](https://github.com/cs210/2022-Meta2/wiki) for a more in-depth overview.
 
