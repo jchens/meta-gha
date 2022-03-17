@@ -112,10 +112,16 @@ It truly takes a village - thanks to everyone involved with our demo!
 ## Insights
 What are the top insights you developed this quarter? I can also review these in advance if you share them.
 
+* User 
+    * Essential to give the user MOTIVATION to move through the world. Give them a historically/culturally significant moment to be a part of and give them an active role. 
 * Characters
-    * Naming, voice acting, and recording the movements of the character added to the immersion
+    * Naming the characters immediately made their stories more personal, relatable, significant and real 
+    * Voice acting and avatar movement makes the experience so much more immersive 
+    * A good, descriptive script eliminates the need for generic stock images (_Next Step:_ Would images only increase the avatar experience or would it pull users away from the personal connection with avatars?)
 * Trivia
-    * 70/30 rule - Users should be able to answer/reasonably guess 70% of the questions, with the other 30% stumping the user.
+    * 70/30 rule - Users should be able to answer/reasonably guess 70% of the questions and the other 30% are challenge questions for the user. Balance accomplishment and achievement
+* Interactive Experience (Mini Game) 
+    * The riskiest piece of the experience at this point (_Next Step:_ Need to define a clear vision of what we are trying to test here)
 
 ## Loop
 What is the core loop / user journey (we also call this a story map) you want to keep exploring next quarter?
