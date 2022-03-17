@@ -36,6 +36,7 @@ You can access these resources for quick reference.
 ## 3D assets
 * [Unity Asset Store](https://assetstore.unity.com/)
 * [CGTrader](https://www.cgtrader.com/)
+* [SketchFab](https://sketchfab.com/)
 
 ## XR Interaction Toolkit
 * [Getting Started Video - XR Interaction Toolkit](https://www.youtube.com/watch?v=06sbOE0KMUo)
