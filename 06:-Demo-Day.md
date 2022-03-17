@@ -117,7 +117,7 @@ What are the top insights you developed this quarter? I can also review these in
 * Characters
     * Naming the characters immediately made their stories more personal, relatable, significant and real 
     * Voice acting and avatar movement makes the experience so much more immersive 
-    * A good, descriptive script eliminates the need for generic stock images (_Next Step:_ Would images only increase the avatar experience or would it pull users away from the personal connection with avatars?)
+    * A good, descriptive script eliminates the need for generic stock images (_Next Step:_ Would images increase the avatar experience or would it pull users away from the personal connection with avatars?)
 * Trivia
     * 70/30 rule - Users should be able to answer/reasonably guess 70% of the questions and the other 30% are challenge questions for the user. Balance accomplishment and achievement
 * Interactive Experience (Mini Game) 
