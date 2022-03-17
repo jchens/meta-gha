@@ -119,4 +119,5 @@ TODO, from Hassan: "You don't need to have a full answer on the Loop and Drivers
 ## Drivers
 * How do you want people to feel at various stages of the loop (eager to win, eager to collaborate, curious to learn more, etc)? 
 
+![user journey](https://user-images.githubusercontent.com/17817708/158890781-5a15a623-dd49-4fb8-9896-c244b8f949d2.png)
 
