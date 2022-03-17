@@ -1,5 +1,5 @@
 # Getting Started
-To get started with Unity, we began by watching several tutorials that were catered towards development for the Oculus Quest 2. These tutorials can be found in the resources below. We have made a general outline below to help guide you through getting started. For any questions, feel free to contact Nick (nickvo@stanford.edu).
+To get started with Unity, we began by watching several tutorials that were catered towards development for the Oculus Quest 2. These tutorials can be found in the resources below. We have made a general outline below to help guide you through getting started. For any questions, feel free to contact Jessica (jchens@stanford.edu) or Nick (nickvo@stanford.edu).
 
 ## Setting up the environment
 1. First, download Unity Hub. You can access the most updated version [here](https://unity3d.com/get-unity/download).
