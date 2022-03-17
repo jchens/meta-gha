@@ -1,6 +1,8 @@
 # Creating Our Prototype
 [[Prototype Presentation]](https://docs.google.com/presentation/d/1GBCHmHdh7CZZRiN0uubAubO5txvcZpsrFCqOgQFI16g/edit?usp=sharing)
 
+[[Rapid Prototype - Figma]](https://www.figma.com/proto/AU8g3yvfUa9y78Gpql5tAv/Rapid-Prototype%3A-Tomb-of-Tu-Duc?node-id=98%3A222&scaling=contain&page-id=0%3A1&starting-point-node-id=6%3A2&show-proto-sidebar=1)
+
 We considered numerous historical points of interest for our initial prototype, and ultimately decided on the Tomb of Emperor Tu Duc due to its potential for strong perspectives (like Emperor Tu Duc himself) and new knowledge that most people wouldn't already have.
 
 ## Goals
