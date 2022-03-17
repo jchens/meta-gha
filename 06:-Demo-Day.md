@@ -110,24 +110,26 @@ It truly takes a village - thanks to everyone involved with our demo!
 # Looking to Next Quarter
 
 ## Insights
-What are the top insights you developed this quarter? I can also review these in advance if you share them.
+What are the top insights you developed this quarter?
 
 * User 
-    * Essential to give the user MOTIVATION to move through the world. Give them a historically/culturally significant moment to be a part of and give them an active role. 
+    * Essential to give the user MOTIVATION to move through the world. Give them a historically/culturally significant moment to be a part of and give them an active role.
+    * Users should be able to connect to MORE than a site. Allowing them to connect to the people can enrich the learning experience. 
 * Characters
-    * Naming the characters immediately made their stories more personal, relatable, significant and real 
+    * Naming the characters immediately made their stories more personal, relatable, significant, and real 
     * Voice acting and avatar movement makes the experience so much more immersive 
     * A good, descriptive script eliminates the need for generic stock images (_Next Step:_ Would images increase the avatar experience or would it pull users away from the personal connection with avatars?)
+    * Having multiple characters and stories provided a powerful, personal tool to represent different perspectives. Could be used to empower the voices of those related to/knowledgeable of the site.
+    * Take caution with regards to misrepresentation and cultural appropriation when thinking of long-term implementation.
 * Trivia
     * 70/30 rule - Users should be able to answer/reasonably guess 70% of the questions and the other 30% are challenge questions for the user. Balance accomplishment and achievement
-* Interactive Experience (Mini Game) 
+* Interactive Experience (Mini-Game)
+    * Connecting a mini-game to a storyline provides motivation and context that can drive unintentional learning.
     * The riskiest piece of the experience at this point (_Next Step:_ Need to define a clear vision of what we are trying to test here)
 
-## Loop
-What is the core loop / user journey (we also call this a story map) you want to keep exploring next quarter?
-
-## Drivers
-How do you want people to feel at various stages of the loop (eager to win, eager to collaborate, curious to learn more, etc)? How can we leverage existing game mechanics to achieve those emotions?
+## Loop and Drivers
+* What is the core loop / user journey (we also call this a story map) you want to keep exploring next quarter?
+* How do you want people to feel at various stages of the loop (eager to win, eager to collaborate, curious to learn more, etc)? How can we leverage existing game mechanics to achieve those emotions?
 
 ![user journey](https://user-images.githubusercontent.com/17817708/158890781-5a15a623-dd49-4fb8-9896-c244b8f949d2.png)
 
