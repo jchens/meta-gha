@@ -1,11 +1,3 @@
-/* TODO EMILY: 
-
-these q's might be answerable under ["Refining Our Prototype"](https://github.com/cs210/2022-Meta2/wiki/05.0:-Refining-Our-Prototype), since the feedback post-rapid prototyping was the main foundation for this iteration. 
-
-* What are the "tailwinds" that have given us conviction in our idea?
-* Why are we going with the final prototype we are going with?
-*/
-
 # Poster
 ![CS210 Demo Poster](https://user-images.githubusercontent.com/17817708/157810580-a9b642fc-b0dc-4013-b963-4d113c672ffe.png)
 
@@ -123,8 +115,8 @@ TODO, from Hassan: "You don't need to have a full answer on the Loop and Drivers
 
 ## Loop
 * What is the core loop / user journey (we also call this a story map) you want to keep exploring next quarter?
-    * TODO: user journey diagram
 
 ## Drivers
 * How do you want people to feel at various stages of the loop (eager to win, eager to collaborate, curious to learn more, etc)? 
-    * TODO: user journey diagram
+
+
