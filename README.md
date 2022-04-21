@@ -10,6 +10,9 @@ We are excited to explore the gamification of historical education within GHA. W
 
 Check out the wiki [here](https://github.com/cs210/2022-Meta2/wiki) for a more in-depth overview.
 
+## Real Customer Profile
+Presentation is available [here](https://docs.google.com/presentation/d/1migG6GcUxKiD9BSwwuABQukvOPI5XAG9MJWKHc2fSLY/edit?usp=sharing).
+
 # Theme Music 
 Listen to our team playlist [here](https://youtube.com/playlist?list=PLtyOBjXWy5eeHbsgqed_f1EVWohBMDn7w).
 
