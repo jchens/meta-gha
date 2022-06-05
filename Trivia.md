@@ -11,13 +11,18 @@ However, moving towards the second quarter, we wanted to further explore Trivia 
 The following wiki page will guide you through the process we took to answer the preceding questions.
 
 ## Creating a VR Trivia Experience
-
+[Screenshot of VR Interactions]
 
 ## User Journey
+[Flow Chart of User Journey]
 
 ## Game Design
 
+[Screenshot of Quiz Show Layout]
+[Screenshot of Quiz Show 1]
+[Screenshot of Quiz Show 2]
+
 ## Trivia and GHA Exploration
 
-
+[Research Results and Findings]
 
