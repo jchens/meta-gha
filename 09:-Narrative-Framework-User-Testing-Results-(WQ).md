@@ -3,16 +3,18 @@ We focused our Narrative Testing framework in two stages (1) Site Expert Testing
 # 1. Site Expert Testing 
 TODO -- DESCRIPTION 
 
-Description of Matt's session (@ Gigi)
+TODO Description of Matt's session (@ Gigi)
 
-Description of Stanford tour guide session (@ Gigi) 
-    *Note on why we tested with tour guides -- this was a unique contribution Meta hasn't spent much time on, there whole job is making the sites ENGAGING
+TODO Description of Stanford tour guide session (@ Gigi) 
+    
+*Note on why we tested with tour guides -- this was a unique contribution Meta hasn't spent much time on, there whole job is making the sites ENGAGING
 
-Etc. 
+TODO Etc. any other expert test sessions -- ie. note about all email attempts sent out, responses back from the most recent batch with photos at Cantor, email from Jessica's history prof connection 
+
 
 ### Takeaways and Action Plan
 
-Results (@ Gigi) 
+TODO organized site expert results and next steps (@ Gigi) 
 
 
 # 2. Breakathon 
@@ -21,7 +23,7 @@ The class Breakathon was our first chance to test the first draft of our scalabl
 From the session, we hoped to adapt the narrative framework to be clearer, leaner, and as inspiring as possible before we began our tests with site experts. 
 
 ### Takeaways and Action Plan
-TODO (@ Gigi)
+TODO Breakathon results and next steps (@ Gigi) 
 
 ### Narrative Framework Draft (used in test)
 
