@@ -1,5 +1,7 @@
 # Breakathon 
-The class Breakathon was our first chance to test the first draft of our scalable Narrative Framework! While our users were not Site Experts, we were excited to use this opportunity to primarily test the framework's **clarity** and **creative inspiration**. From the session, we hoped to adapt the narrative framework to be clearer, leaner, and as inspiring as possible before we began our tests with site experts. 
+The class Breakathon was our first chance to test the first draft of our scalable Narrative Framework! While our users were not Site Experts, we were excited to use this opportunity to primarily test the framework's **clarity** and **creative inspiration**. 
+
+From the session, we hoped to adapt the narrative framework to be clearer, leaner, and as inspiring as possible before we began our tests with site experts. 
 
 ### Narrative Framework Draft
 
