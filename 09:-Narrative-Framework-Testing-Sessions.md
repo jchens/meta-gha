@@ -9,6 +9,13 @@ From the session, we hoped to adapt the narrative framework to be clearer, leane
 
 ![Screen Shot 2022-06-07 at 4 38 41 PM](https://user-images.githubusercontent.com/69916790/172501062-cd05d0f5-2fff-4949-8562-4df65c7ee50b.png)
 
+![Screen Shot 2022-06-07 at 4 40 22 PM](https://user-images.githubusercontent.com/69916790/172501233-b199ab82-7660-4826-a35d-3c12f45cac97.png)
+
+![Screen Shot 2022-06-07 at 4 40 34 PM](https://user-images.githubusercontent.com/69916790/172501259-13e8c3be-ae0a-4301-aa12-7cbfe470f014.png)
+
+![Screen Shot 2022-06-07 at 4 40 46 PM](https://user-images.githubusercontent.com/69916790/172501281-89226b3a-4d37-433d-9f24-6453e9a1e655.png)
+
+
 ### Users in Action 
 
 ![Copy of testing](https://user-images.githubusercontent.com/69916790/172500647-28278b12-5bf4-411b-b415-0e0166fb3a6e.png)
