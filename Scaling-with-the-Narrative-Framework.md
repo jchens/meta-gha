@@ -21,8 +21,12 @@ We have done both rapid and expert user testing and prototyping to hone the narr
 Meta approaches site experts as Subject Matter Experts or SMEs -- historians, academics, site directors. We take a expand the definition to "Site Experts" by including tour guides, who are very knowledgable about sites, go through rigorous fact training, and are trained to create **engaging** experiences (or tours). To us, an "expert" is not only someone who knows a lot about the site, but also someone who knows how to make the site enticing, gripping, and personable. See user testing tabs for more details on the test results from our narrative framework test sessions with tour guides. 
 
 ### Plot 
-INSERT PLOT CARD
 
+<img width="824" alt="Screen Shot 2022-06-07 at 3 55 20 PM" src="https://user-images.githubusercontent.com/69916790/172496457-956d47ed-4a2c-48b0-919b-81cb4c27a1e6.png">
+
+<img width="741" alt="Screen Shot 2022-06-07 at 3 55 38 PM" src="https://user-images.githubusercontent.com/69916790/172496493-153c6d2d-2ccd-4851-9f2d-ad51e27c6375.png">
+
+ 
 ### User 
 INSERT USER CARD 
 
