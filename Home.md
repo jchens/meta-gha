@@ -3,11 +3,15 @@
 
 
 # Navigating the Documentation
-This Wiki provides a high level overview of our prototyping for GHA. You can use the side bar to navigate this documentation.
+This Wiki provides a high level overview of our prototyping for GHA. You can use the side bar to navigate this documentation. Our project is unique with multiple deliverables: 
+(1) The Narrative and Trivia VR experiences themselves (eg. the Mesa Verde and gameshow Trivia prototypes) [External]
 
-**Winter Quarter focus:** Rapid prototyping and validating idea
+(2) The Narrative Framework geared internally to develop and scale future site prototypes and experiences [Internal]
 
-**Spring Quarter focus:** Testing and scaling narrative framework, trivia development in Unity
+
+**Winter Quarter focus:** Rapid prototyping and validating narrative historic experiences
+
+**Spring Quarter focus:** Testing and scaling narrative framework, trivia development in Unity, user testing for narrative framework and trivia prototype 
 
 Spring Quarter Project Fair poster summarizing our work: 
 ![image](https://user-images.githubusercontent.com/69916790/172456918-e86a8d02-4378-434d-b690-e4049f55a4d5.png)
