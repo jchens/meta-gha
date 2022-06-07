@@ -10,15 +10,18 @@ A **scalable** model applicable to any historical site to develop an **immersive
 
 ## Step 2: Craft a plot, user role, and characters with a Site Expert
 
-Who is a _Site Expert_? 
+### Who is a _Site Expert_? 
 
 Meta approaches site experts as Subject Matter Experts or SMEs -- historians, academics, site directors. We take a expand the definition to "Site Experts" by including tour guides, who are very knowledgable about sites, go through rigorous fact training, and are trained to create **engaging** experiences (or tours). To us, an "expert" is not only someone who knows a lot about the site, but also someone who knows how to make the site enticing, gripping, and personable. 
 
+### Plot 
 INSERT PLOT CARD
 
+### User 
 INSERT USER CARD 
 
-INSERT CHARACTER CARD
+### Character
+NSERT CHARACTER CARD
 
 <img width="853" alt="Screen Shot 2022-06-07 at 3 05 51 PM" src="https://user-images.githubusercontent.com/69916790/172490970-816b3d30-2b36-4898-8fce-f47c907c8dfa.png">
 
