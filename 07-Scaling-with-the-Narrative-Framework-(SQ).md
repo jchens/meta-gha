@@ -6,6 +6,8 @@
 
 A **scalable** model applicable to any historical site to develop an **immersive, cultural VR experience** aligned with engagement and unintentional learning
 
+We developed the following narrative framework over Spring Quarter as a method to generalize our overwhelmingly positive and personable Mesa Verde prototype to other sites. We started by defining the process flow we developed to create the Mesa Verde prototype and honed the documentation from there by applying the framework to a half a dozen different sites through several testing sessions from the Breakathon to site expert collaboration. 
+
 ## Step 1: Choose a Historic Site 
 
 ### What is a _Historic Site_? 
