@@ -33,8 +33,10 @@ Meta approaches site experts as Subject Matter Experts or SMEs -- historians, ac
 
 
 ### Character
-NSERT CHARACTER CARD
+![Screen Shot 2022-06-07 at 4 06 33 PM](https://user-images.githubusercontent.com/69916790/172497617-dea4ca1c-e227-4344-b71d-1beea4210493.png)
 
+
+### Narrative Story Arc (guide)
 <img width="853" alt="Screen Shot 2022-06-07 at 3 05 51 PM" src="https://user-images.githubusercontent.com/69916790/172490970-816b3d30-2b36-4898-8fce-f47c907c8dfa.png">
 
 <img width="855" alt="Screen Shot 2022-06-07 at 3 05 39 PM" src="https://user-images.githubusercontent.com/69916790/172490941-89ed73b0-e34f-4ad0-baaf-c04651b7acd1.png">
