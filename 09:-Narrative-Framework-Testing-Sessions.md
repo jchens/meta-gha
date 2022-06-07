@@ -5,8 +5,9 @@ The class Breakathon was our first chance to test the first draft of our scalabl
 
 ![Screen Shot 2022-06-07 at 4 38 31 PM](https://user-images.githubusercontent.com/69916790/172501048-9f96a207-637e-4fa4-a559-4618c6db32dd.png)
 
-### Users in Action 
 ![Screen Shot 2022-06-07 at 4 38 41 PM](https://user-images.githubusercontent.com/69916790/172501062-cd05d0f5-2fff-4949-8562-4df65c7ee50b.png)
+
+### Users in Action 
 
 ![Copy of testing](https://user-images.githubusercontent.com/69916790/172500647-28278b12-5bf4-411b-b415-0e0166fb3a6e.png)
 
