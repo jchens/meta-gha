@@ -1,10 +1,27 @@
-# Breakathon 
+We focused our Narrative Testing framework in two stages (1) Site Expert Testing at the end of Spring Quarter and (2) Initial clarity testing mid-Spring Quarter after developing the Narrative Framework in early Spring. Please find the most recent Site Expert testing at the top and the initial clarity testing from the Breakathon below. 
+
+# 1. Site Expert Testing 
+TODO -- DESCRIPTION 
+
+Description of Matt's session (@ Gigi)
+
+Description of Stanford tour guide session (@ Gigi) 
+    *Note on why we tested with tour guides -- this was a unique contribution Meta hasn't spent much time on, there whole job is making the sites ENGAGING
+
+Etc. 
+
+### Takeaways and Action Plan
+
+Results (@ Gigi) 
+
+
+# 2. Breakathon 
 The class Breakathon was our first chance to test the first draft of our scalable Narrative Framework! While our users were not Site Experts, we were excited to use this opportunity to primarily test the framework's **clarity** and **creative inspiration**. 
 
 From the session, we hoped to adapt the narrative framework to be clearer, leaner, and as inspiring as possible before we began our tests with site experts. 
 
 ### Takeaways and Action Plan
-TODO 
+TODO (@ Gigi)
 
 ### Narrative Framework Draft (used in test)
 
@@ -25,16 +42,3 @@ TODO
 
 ![IMG_6361](https://user-images.githubusercontent.com/69916790/172500853-4b2b08eb-45f5-4cc4-a468-b08acd8ac998.jpg)
 
-
-# Site Expert Testing 
-TODO -- DESCRIPTION 
-
-Description of Matt's session (@ Gigi)
-
-Description of Stanford tour guide session (@ Gigi) 
-
-Etc. 
-
-## Takeaways and Action Plan
-
-Results (@ Gigi) 
