@@ -22,9 +22,8 @@ Meta approaches site experts as Subject Matter Experts or SMEs -- historians, ac
 
 ### Plot 
 
-<img width="824" alt="Screen Shot 2022-06-07 at 3 55 20 PM" src="https://user-images.githubusercontent.com/69916790/172496457-956d47ed-4a2c-48b0-919b-81cb4c27a1e6.png">
+![Screen Shot 2022-06-07 at 3 58 54 PM](https://user-images.githubusercontent.com/69916790/172496891-fc005c65-6f86-4af8-b5c1-ee7179af126c.png)
 
-<img width="741" alt="Screen Shot 2022-06-07 at 3 55 38 PM" src="https://user-images.githubusercontent.com/69916790/172496493-153c6d2d-2ccd-4851-9f2d-ad51e27c6375.png">
 
  
 ### User 
