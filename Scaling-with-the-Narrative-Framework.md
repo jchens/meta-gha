@@ -6,7 +6,9 @@
 
 A **scalable** model applicable to any historical site to develop an **immersive, cultural VR experience** aligned with engagement and unintentional learning
 
-## Step 1: Choose a historical site 
+## Step 1: Choose a Historic Site 
+
+## What is a Historic Site? 
 
 We have done both rapid and expert user testing and prototyping to hone the narrative framework to be generalizable for any historic site (see below definition). Whether providing historical research to laypeople with little prior knowledge about the site or working with an expert with extensive background on the location, we have received user feedback that the narrative framework spurs creativity, provides guidelines, and inspires interactive stories, or experiences. 
 
