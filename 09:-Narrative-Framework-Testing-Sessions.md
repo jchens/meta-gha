@@ -3,7 +3,10 @@ The class Breakathon was our first chance to test the first draft of our scalabl
 
 From the session, we hoped to adapt the narrative framework to be clearer, leaner, and as inspiring as possible before we began our tests with site experts. 
 
-### Narrative Framework Draft
+## Takeaways and Action Plan
+TODO 
+
+### Narrative Framework Draft (used in test)
 
 ![Screen Shot 2022-06-07 at 4 38 31 PM](https://user-images.githubusercontent.com/69916790/172501048-9f96a207-637e-4fa4-a559-4618c6db32dd.png)
 
@@ -22,9 +25,6 @@ From the session, we hoped to adapt the narrative framework to be clearer, leane
 
 ![IMG_6361](https://user-images.githubusercontent.com/69916790/172500853-4b2b08eb-45f5-4cc4-a468-b08acd8ac998.jpg)
 
-
-## Takeaways and Action Plan
-TODO 
 
 # Site Expert Testing 
 TODO -- DESCRIPTION 
