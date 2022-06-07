@@ -1,7 +1,7 @@
 We focused our Narrative Testing framework in two stages (1) Site Expert Testing at the end of Spring Quarter and (2) Initial clarity testing mid-Spring Quarter after developing the Narrative Framework in early Spring. Please find the most recent Site Expert testing at the top and the initial clarity testing from the Breakathon below. 
 
 # 1. Site Expert Testing 
-TODO -- DESCRIPTION 
+TODO -- DESCRIPTION. Note: Refer to the 08: Narrative Framework to exemplify the resources test users had. Focus on the quality of their stories and their feedback about the narrative framework itself. 
 
 TODO Description of Matt's session (@ Gigi)
 
