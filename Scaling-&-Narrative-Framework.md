@@ -1,6 +1,6 @@
 # Narrative Framework 
 
-**Narrative Framework**
+**Narrative Framework:**
 
 <img width="446" alt="Screen Shot 2022-06-07 at 3 03 35 PM" src="https://user-images.githubusercontent.com/69916790/172490648-862b6e9b-d675-45cf-91a7-e9c4c81dc252.png">
 
