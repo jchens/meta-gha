@@ -6,5 +6,4 @@
 This Wiki provides a high level overview of our prototyping for GHA. You can use the side bar to navigate this documentation.
 
 Spring Quarter Project Fair poster summarizing our work: 
-[Jenga Final Poster.pdf](https://github.com/cs210/2022-Meta2/files/8855687/Jenga.Final.Poster.pdf)
-
+![image](https://user-images.githubusercontent.com/69916790/172456918-e86a8d02-4378-434d-b690-e4049f55a4d5.png)
