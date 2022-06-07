@@ -8,11 +8,15 @@ A **scalable** model applicable to any historical site to develop an **immersive
 
 ## Step 1: Choose a historical site 
 
+We have done both rapid and expert user testing and prototyping to hone the narrative framework to be generalizable for any historic site (see below definition). Whether providing historical research to laypeople with little prior knowledge about the site or working with an expert with extensive background on the location, we have received user feedback that the narrative framework spurs creativity, provides guidelines, and inspires interactive stories, or experiences. 
+
+**Historic Site:** an official location of social, political, cultural, or general historic significance; often a monument, building, or tomb; for example, any World Heritage site 
+
 ## Step 2: Craft a plot, user role, and characters with a Site Expert
 
 ### Who is a _Site Expert_? 
 
-Meta approaches site experts as Subject Matter Experts or SMEs -- historians, academics, site directors. We take a expand the definition to "Site Experts" by including tour guides, who are very knowledgable about sites, go through rigorous fact training, and are trained to create **engaging** experiences (or tours). To us, an "expert" is not only someone who knows a lot about the site, but also someone who knows how to make the site enticing, gripping, and personable. 
+Meta approaches site experts as Subject Matter Experts or SMEs -- historians, academics, site directors. We take a expand the definition to "Site Experts" by including tour guides, who are very knowledgable about sites, go through rigorous fact training, and are trained to create **engaging** experiences (or tours). To us, an "expert" is not only someone who knows a lot about the site, but also someone who knows how to make the site enticing, gripping, and personable. See user testing tabs for more details on the test results from our narrative framework test sessions with tour guides. 
 
 ### Plot 
 INSERT PLOT CARD
