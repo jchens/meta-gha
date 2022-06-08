@@ -65,21 +65,23 @@ was not sure what was going on until the example was shown. She was not sure if 
 
 
 # 2. Breakathon 
-The class Breakathon was our first chance to test the initial draft of our scalable Narrative Framework! While our users were not Site Experts, we were excited to use this opportunity to primarily test the framework's **clarity** and **creative inspiration**. 
+[📝 Breakathon Feedback Form](https://forms.gle/xwaPGE6kcFQQoUAX9)
 
-To do this, we 
+The class Breakathon was our first chance to test the initial draft of our scalable Narrative Framework! While our users were not Site Experts, we were excited to use this opportunity to primarily test the framework's **clarity** and **creative inspiration**. 
 
 From the session, we hoped to adapt the narrative framework to be clearer, leaner, and as inspiring as possible before we began our tests with site experts. 
 
-### Testing Procedure and Participants
+## Testing Procedure and Participants
 
 At the Breakathon, we were able to test our scalable Narrative Framework with six participants. Two participants were members of the Teaching Team, and four participants were students in class. And while two participants were female, four participants were male.
 
-We presented the testers with historical [site blurbs](https://docs.google.com/presentation/d/1OrAjqPtAUuV3_jJWDDqbva3-HkiPmRP63PvtmgxSom0/edit?usp=sharing) from which they can choose and base their story on their choice. 
+![image](https://user-images.githubusercontent.com/17817708/172599639-b1280f8b-1c01-4cab-8305-4e5a6f45a5a9.png)
+
+We presented the testers with historical [site blurbs](https://docs.google.com/presentation/d/1OrAjqPtAUuV3_jJWDDqbva3-HkiPmRP63PvtmgxSom0/edit?usp=sharing) from which they can choose one to base their story on.
 
 <img width="979" alt="Screen Shot 2022-06-08 at 3 29 35 AM" src="https://user-images.githubusercontent.com/17817708/172594993-85fafe4a-c8cf-4b9b-9c86-c68366481b07.png">
 
-In addition, we provided participants with various info cards about the narrative elements essential to the story, like the plot or characters.
+In addition, we provided participants with various printed info cards about the narrative elements essential to the story, like the plot or characters.
 
 ![Screen Shot 2022-06-07 at 4 38 31 PM](https://user-images.githubusercontent.com/69916790/172501048-9f96a207-637e-4fa4-a559-4618c6db32dd.png)
 
@@ -95,7 +97,7 @@ After the participants finished creating their stories, we interviewed them and 
 
 [Click here](https://forms.gle/xwaPGE6kcFQQoUAX9) to view the Breakathon feedback collection form.
 
-### Takeaways and Action Plan
+## Takeaways and Action Plan
 [Click here](https://docs.google.com/spreadsheets/d/1ueP0ug5FPw0O4fR05L-WCdAFobp9jkMPZ0guyWWATMw/edit?usp=sharing) to view the Rainbow Sheet analysis for Breakathon.
 
 In order to analyze the feedback collected, we identified the overlapping themes in the interview summaries. Then, we visualized these overlapping themes using a Rainbow Sheet where each participant is identified by a unique color. If a participant expressed an idea that overlaps with the commonly identified themes, then we marked their response on the sheet using their unique color. You may view the commonly identified themes and participant observations under the "Observations" tab.
