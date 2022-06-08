@@ -52,7 +52,7 @@ At the end, the user earns a stamp for their passport based on their score.
 
 <img width="1000" alt="Silver-Stamp" src="https://user-images.githubusercontent.com/17817708/172732703-a09ed340-5be9-42e5-98dd-3e6c26490117.png">
 
-<img width="800" alt="Passport" src="https://user-images.githubusercontent.com/17817708/172735599-f1d1a0cd-c998-4872-9e05-d42a19306440.png">
-
+<img width="600" alt="Passport" src="https://user-images.githubusercontent.com/17817708/172736413-5ac8cf06-dd37-4709-8958-037e7b2bd857.png">
 
 # Narrative Framework
+
