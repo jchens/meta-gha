@@ -5,6 +5,10 @@ We tested our Narrative Framework with Site Expert such as historians, academics
 
 [Click here](https://docs.google.com/presentation/d/1bxN3BriuyvN8ASZgdeI4PTrzfCECModINgoXCOmURxg/edit?usp=sharing) to view the testing slide deck.
 
+Our testing structure involved:
+1. Introduce our project
+2. blah blah next step TODO by Jessica
+
 ## Interview Summaries and Analysis
 
 ### Matt Shimura
