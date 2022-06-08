@@ -46,16 +46,13 @@ From the session, we hoped to adapt the narrative framework to be clearer, leane
 
 At the Breakathon, we were able to test our scalable Narrative Framework with six participants where two participants were members of the Teaching Team and fours participants were students in class. While two participants were female, four participants were male.
 
-We presented the testers with historical [site blurbs](https://docs.google.com/presentation/d/1OrAjqPtAUuV3_jJWDDqbva3-HkiPmRP63PvtmgxSom0/edit?usp=sharing) from which they can choose and base their story on their choice.
-
-After walking them through how they can use our narrative framework, we collected feedback.
+We presented the testers with historical [site blurbs](https://docs.google.com/presentation/d/1OrAjqPtAUuV3_jJWDDqbva3-HkiPmRP63PvtmgxSom0/edit?usp=sharing) from which they can choose and base their story on their choice. After the participants finished creating their stories, we interviewed them and recorded their feedback using a google form.
 
 [Click here](https://forms.gle/xwaPGE6kcFQQoUAX9) to view the Breakathon feedback collection form.
 
 ### Takeaways and Action Plan
 
-
-
+In order to analyse the feedback collected, we identified the overlapping themes in the interview summaries. Then, we visualised these overlapping themes using a Rainbow Sheet where each participant is identified by a unique color. If a participant expressed an idea that overlaps with the commonly identified themes, then we marked their response on the sheet using their unique color. You may view the commonly identified themes and participant observations under the "Observations" tab of the below sheet. In the "Summary" tab, we listed the research questions, answers to these quests and resulting action items. Our primary findings can also be found under this tab.
 
 [Click here](https://docs.google.com/spreadsheets/d/1ueP0ug5FPw0O4fR05L-WCdAFobp9jkMPZ0guyWWATMw/edit?usp=sharing) to view the Rainbow Sheet analysis for Breakathon.
 
