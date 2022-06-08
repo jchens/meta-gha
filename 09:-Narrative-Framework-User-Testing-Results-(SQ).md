@@ -42,9 +42,20 @@ The class Breakathon was our first chance to test the first draft of our scalabl
 
 From the session, we hoped to adapt the narrative framework to be clearer, leaner, and as inspiring as possible before we began our tests with site experts. 
 
+### Testing Procedure and Participants
+
+At the Breakathon, we were able to test our scalable Narrative Framework with six participants where two participants were members of the Teaching Team and fours participants were students in class. While two participants were female, four participants were male.
+
+We presented the testers with historical [site blurbs](https://docs.google.com/presentation/d/1OrAjqPtAUuV3_jJWDDqbva3-HkiPmRP63PvtmgxSom0/edit?usp=sharing) from which they can choose and base their story on their choice.
+
+After walking them through how they can use our narrative framework, we collected feedback.
+
+[Click here](https://forms.gle/xwaPGE6kcFQQoUAX9) to view the Breakathon feedback collection form.
+
 ### Takeaways and Action Plan
 
-TODO (@gigi) desc
+
+
 
 [Click here](https://docs.google.com/spreadsheets/d/1ueP0ug5FPw0O4fR05L-WCdAFobp9jkMPZ0guyWWATMw/edit?usp=sharing) to view the Rainbow Sheet analysis for Breakathon.
 
