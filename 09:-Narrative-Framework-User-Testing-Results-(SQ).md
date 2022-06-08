@@ -1,7 +1,7 @@
 We focused our Narrative Testing framework in two stages (1) Site Expert Testing at the end of Spring Quarter and (2) Initial clarity testing mid-Spring Quarter after developing the Narrative Framework in early Spring. Please find the most recent Site Expert testing at the top and the initial clarity testing from the Breakathon below. 
 
 # 1. Site Expert Testing 
-We tested our Narrative Framework with Site Expert which includes historians, academics, historical site directors as well as Stanford tour guides. At the start of the testing sessions, we introduced the site experts the task of designing a historical story for GHA and presented how the narrative framework could be applied to an example historical site.
+We tested our Narrative Framework with Site Expert such as historians, academics, historical site directors as well as Stanford tour guides. At the start of the testing sessions, we introduced the site experts the task of designing a historical story for GHA and presented how the narrative framework could be applied to an example historical site.
 
 [Click here](https://docs.google.com/presentation/d/1bxN3BriuyvN8ASZgdeI4PTrzfCECModINgoXCOmURxg/edit?usp=sharing) to view the testing slide deck.
 
