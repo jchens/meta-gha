@@ -21,7 +21,6 @@ Matt Shimura is an Associate Technical Project Manager at Meta and he crafted tw
 ### Julia Milani
 Julia Milani studied History at Stanford University and was a tour guide on campus. The setting of her story is Roble Arts Gym and her feedback helped us revise the instructions on how to use the narrative framework.
 
-[Click here](https://docs.google.com/document/d/1hiQYA9eT-Au53VLjkDt0HXnjuqkM7w9Aa473I79H3BQ/edit?usp=sharing) to view Julia's full interview summary and analysis.
     
 *Note on why we tested with tour guides -- this was a unique contribution Meta hasn't spent much time on, there whole job is making the sites ENGAGING
 
@@ -29,10 +28,13 @@ TODO Etc. any other expert test sessions -- ie. note about all email attempts se
 
 
 ## Takeaways and Action Plan
+
+Each interview presents the site expert testers an opportunity to create unique stories. Therefore, we analysed each interview summary individually and created the following interview reports that list the action items resulted from that particular interview.
+
 [Click here](https://docs.google.com/document/d/1A5p7bQz-6jVDFdmHRVwmf65g1lUbHyXdnH6IrJ0kJ_M/edit?usp=sharing) to view Matt's full interview summary and analysis.
 
+[Click here](https://docs.google.com/document/d/1hiQYA9eT-Au53VLjkDt0HXnjuqkM7w9Aa473I79H3BQ/edit?usp=sharing) to view Julia's full interview summary and analysis.
 
-TODO organized site expert results and next steps (@ Gigi) 
 
 
 # 2. Breakathon 
@@ -41,7 +43,10 @@ The class Breakathon was our first chance to test the first draft of our scalabl
 From the session, we hoped to adapt the narrative framework to be clearer, leaner, and as inspiring as possible before we began our tests with site experts. 
 
 ### Takeaways and Action Plan
-TODO Breakathon results and next steps (@ Gigi) 
+
+TODO (@gigi) desc
+
+[Click here](https://docs.google.com/spreadsheets/d/1ueP0ug5FPw0O4fR05L-WCdAFobp9jkMPZ0guyWWATMw/edit?usp=sharing) to view the Rainbow Sheet analysis for Breakathon.
 
 ### Narrative Framework Draft (used in test)
 
