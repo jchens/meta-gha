@@ -8,19 +8,19 @@ We tested our Narrative Framework with Site Expert such as historians, academics
 
 [Click here](https://forms.gle/NQQaPHgqnVhCsyJr8) to view the feedback collection form.
 
-### Overview of our testing procedure
-<img width="1764" alt="narrative framework testing structure" src="https://user-images.githubusercontent.com/17817708/172528325-5bbc1899-3b20-44dc-9cb1-d4aab7e3f4cd.png">
+Our testing structure involved:
+1. Introduce our project
+2. blah blah next step TODO by Jessica
 
-## Interview Summaries and Analysis
+## Site Experts
 
 ### Matt Shimura
-Matt Shimura is an Associate Technical Project Manager at Meta and his  a refining our narrative framework
-TODO: key points
-[Click here](https://docs.google.com/document/d/1A5p7bQz-6jVDFdmHRVwmf65g1lUbHyXdnH6IrJ0kJ_M/edit?usp=sharing) to view Matt's full interview summary and analysis.
+Matt Shimura is an Associate Technical Project Manager at Meta and he crafted two historical stories that take place at the Capitol Hill building. His feedback helped us refine our narrative framework in a way that the prompts are more clear and that there is more scaffolding provided for story creation.
+
 
 ### Julia Milani
-TODO: Who's julia
-TODO: key points
+Julia Milani studied History at Stanford University and was a tour guide on campus. The setting of her story is Roble Arts Gym and her feedback helped us revise the instructions on how to use the narrative framework.
+
 [Click here](https://docs.google.com/document/d/1hiQYA9eT-Au53VLjkDt0HXnjuqkM7w9Aa473I79H3BQ/edit?usp=sharing) to view Julia's full interview summary and analysis.
     
 *Note on why we tested with tour guides -- this was a unique contribution Meta hasn't spent much time on, there whole job is making the sites ENGAGING
@@ -28,7 +28,9 @@ TODO: key points
 TODO Etc. any other expert test sessions -- ie. note about all email attempts sent out, responses back from the most recent batch with photos at Cantor, email from Jessica's history prof connection 
 
 
-### Takeaways and Action Plan
+## Takeaways and Action Plan
+[Click here](https://docs.google.com/document/d/1A5p7bQz-6jVDFdmHRVwmf65g1lUbHyXdnH6IrJ0kJ_M/edit?usp=sharing) to view Matt's full interview summary and analysis.
+
 
 TODO organized site expert results and next steps (@ Gigi) 
 
