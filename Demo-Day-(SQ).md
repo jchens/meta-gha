@@ -1,4 +1,6 @@
-TODO by Jessica
+TODO by Jessica (follow similar format as WQ)
+
+# Poster
 
 # Prototype
 
