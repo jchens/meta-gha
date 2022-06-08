@@ -8,9 +8,8 @@ We tested our Narrative Framework with Site Expert such as historians, academics
 
 [Click here](https://forms.gle/NQQaPHgqnVhCsyJr8) to view the feedback collection form.
 
-Our testing structure involved:
-1. Introduce our project
-2. blah blah next step TODO by Jessica
+### Overview of our testing procedure
+<img width="1764" alt="narrative framework testing structure" src="https://user-images.githubusercontent.com/17817708/172528325-5bbc1899-3b20-44dc-9cb1-d4aab7e3f4cd.png">
 
 ## Interview Summaries and Analysis
 
