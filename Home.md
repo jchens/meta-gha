@@ -10,9 +10,9 @@ This Wiki provides a high level overview of our prototyping for GHA. You can use
 2. The Narrative Framework geared internally to develop and scale future site prototypes and experiences [Internal]
 
 
-**Winter Quarter focus:** Rapid prototyping and validating narrative historic experiences
+**Winter Quarter (WQ) focus:** Rapid prototyping and validating narrative historic experiences
 
-**Spring Quarter focus:** Testing and scaling narrative framework, trivia development in Unity, user testing for narrative framework and trivia prototype 
+**Spring Quarter (SQ) focus:** Testing and scaling narrative framework, trivia development in Unity, user testing for narrative framework and trivia prototype 
 
 **Spring Quarter Project Fair Poster:** 
 ![image](https://user-images.githubusercontent.com/69916790/172456918-e86a8d02-4378-434d-b690-e4049f55a4d5.png)
