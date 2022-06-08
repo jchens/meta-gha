@@ -14,6 +14,7 @@ The following wiki page will guide you through the process we took to answer the
 
 
 
+
 ## User Journey
 [Flow Chart of User Journey]
 
@@ -25,6 +26,10 @@ The following wiki page will guide you through the process we took to answer the
 [Screenshot of Quiz Show 2]
 
 ## Trivia and GHA Exploration
+To test the potential of this trivia experience to motivate GHA exploration, we integrated it with our previous prototype. Conducting A/B tests, we presented the prototype of Mesa Verde either with or without the option to conduct the trivia. While they were testing, we took metrics such as:
+* Number of POI's Explored
+* Session Time
+* User Flow (Do they return to Mesa Verde, Replay, or Explore a New Site)
 
 [Research Results and Findings]
 
