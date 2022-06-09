@@ -4,7 +4,7 @@
 :film_strip: [Trivia Game Recording](https://drive.google.com/file/d/1CklpJGEGu0gneaio9GR7O-2t53I9Wiai/view?usp=sharing)
 
 # Introduction
-In brainstorming different drivers for the exploration of GHA, we arrived on the idea of Trivia. Informed by talks with Jay Borenstein and Adam Tobin, a producer for one of the most popular game shows in America, the idea of Trivia compelled us as a technique to gamify exploration and unintentional learning. At the end of the first quarter, these efforts culminated in a low-fi version integrated within our Mesa Verde Figma Prototype [Link Here].
+In brainstorming different drivers for the exploration of GHA, we arrived on the idea of Trivia. Informed by talks with Jay Borenstein and Adam Tobin, a producer for one of the most popular game shows in America, the idea of Trivia compelled us as a technique to gamify exploration and unintentional learning. At the end of the first quarter, these efforts culminated in a low-fi version integrated within our Mesa Verde Figma Prototype.
 
 
 However, moving towards the second quarter, we wanted to further explore Trivia through a playable Unity prototype. In creating this prototype, we took a step in our journey to answer these questions:
@@ -35,7 +35,7 @@ To implement a scoring system, we chose to represent the score as the number of 
 ![Trivia Updated Passport](https://user-images.githubusercontent.com/53293116/172777991-7d8685e3-ae3a-43c0-886a-7590da3cd6bb.png)
 
 ### 🆚 Core Component 5: Compete Against Friends and Family
-Every game show isn't complete without a collaborative aspect. To prototype this, we set up three additional player podiums for a multiplayer experience. After or before exploring a site, users can enter the trivia game show and compete to put their knowledge to the test. By providing a structured experience for friends to collaborate, we hope that the game show could increase social engagement.
+Every game show isn't complete without a collaborative aspect. To prototype this, we set up three additional player podiums for a multiplayer experience. After or before exploring a site, users can enter the trivia game show and compete to put their knowledge to the test. By providing a structured experience for friends to collaborate, the trivia is able to promote social engagement.
 
 ![Screenshot (114)](https://user-images.githubusercontent.com/53293116/172611006-955161df-22d8-4d08-ae9e-fed7ea055b1d.png)
 
@@ -46,7 +46,7 @@ The set of the game show is designed around Mesa Verde within the current protot
 ### Scalability
 To account for scalability to other sites, we decided to standardize the game components used within a trivia set. Provided below is a general layout, as well as a chart for component selection.
 
-![Frame 2](https://user-images.githubusercontent.com/53293116/172787198-1aa3fbdf-5428-4f1b-b5ef-5cc09b955eb3.png)
+![Frame 2](https://user-images.githubusercontent.com/53293116/172787198-1aa3fbdf-5428-4f1b-b5ef-5cc09b955eb3.png) ![Screenshot (133)](https://user-images.githubusercontent.com/53293116/172789550-ea13dc0e-d9e5-475e-82c6-47c96e885096.png)
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/53293116/172611028-9d8d6cb6-bc0c-4042-aac8-fada6b249396.png)
 
