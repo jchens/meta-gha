@@ -35,7 +35,7 @@ To implement a scoring system, we chose to represent the score as the number of 
 ![Trivia Updated Passport](https://user-images.githubusercontent.com/53293116/172777991-7d8685e3-ae3a-43c0-886a-7590da3cd6bb.png)
 
 ### 🆚 Core Component 5: Compete Against Friends and Family
-Every game show isn't complete without a collaborative aspect. To prototype this, we set up three additional player podiums for a multiplayer experience. After or before exploring a site, users can enter the trivia game show and compete to see who knows the most.
+Every game show isn't complete without a collaborative aspect. To prototype this, we set up three additional player podiums for a multiplayer experience. After or before exploring a site, users can enter the trivia game show and compete to put their knowledge to the test. By providing a structured experience for friends to collaborate, we hope that the game show could increase social engagement.
 
 ![Screenshot (114)](https://user-images.githubusercontent.com/53293116/172611006-955161df-22d8-4d08-ae9e-fed7ea055b1d.png)
 
@@ -44,21 +44,10 @@ Every game show isn't complete without a collaborative aspect. To prototype this
 The set of the game show is designed around Mesa Verde within the current prototype. This choice to select the site was informed by the idea of having a game show environment that holds similar aesthetic qualities as the site; however, it must be noted that, in practice, subject matter experts and ethical considerations should be consulted before choosing or creating a site. 
 
 ### Scalability
+To account for scalability to other sites, we decided to standardize the game components used within a trivia set. Provided below is a general layout, as well as a chart for component selection.
+
+![Frame 2](https://user-images.githubusercontent.com/53293116/172787198-1aa3fbdf-5428-4f1b-b5ef-5cc09b955eb3.png)
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/53293116/172611028-9d8d6cb6-bc0c-4042-aac8-fada6b249396.png)
-[Screenshot of Quiz Show Layout]
-[Screenshot of Quiz Show 1]
-[Screenshot of Quiz Show 2]
 
-## Trivia and GHA Exploration
-To test the potential of this trivia experience to motivate GHA exploration, we integrated it with our previous prototype. Conducting A/B tests, we presented the prototype of Mesa Verde either with or without the option to conduct the trivia. While the users tested, we took metrics such as:
-* Number of POI's Explored
-* Session Time
-* User Flow (Do they return to Mesa Verde, Replay, or Explore a New Site)
-
-The following table summarizes our quantitative findings:
-
-After their experience, we then conducted a survey to gauge the user's motivation for engaging with trivia as well as ...
-
-[Research Results and Findings]
 
