@@ -4,18 +4,23 @@ In brainstorming different drivers for the exploration of GHA, we arrived on the
 
 However, moving towards the second quarter, we wanted to further explore Trivia through a playable Unity prototype. In creating this prototype, we took a step in our journey to answer these questions:
 * How can we create a Trivia experience that utilizes the capabilities of virtual reality?
-* What emotions do we want our users to feel during Trivia?
 * What does a trivia experience unique to each site look like?
 * To what extent can Trivia motivate exploration through GHA?
 
 The following wiki page will guide you through the process we took to answer the preceding questions.
 
-## Creating a VR Trivia Experience
+## :joystick: Creating a VR Trivia Experience
+At the end of the winter quarter, our initial trivia prototype in Figma was designed as an overlay within the user's HUD. Moving forward, we wanted to explore what interactions engaged the user in a form that utilized the potential of virtual reality. The following section addresses how these design decisions were informed.
 
+Drawing inspiration on 
 
 
 
 ## User Journey
+Through user testing, we found that there are three key motivators for those who choose to complete Trivia:
+1. Trivia as a internal reward system
+2. Trivia as a competition
+3. Guided learning, to preview the site
 [Flow Chart of User Journey]
 
 ## Game Design
