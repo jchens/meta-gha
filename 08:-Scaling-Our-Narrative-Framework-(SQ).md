@@ -6,6 +6,8 @@
 
 A **scalable** model applicable to any historical site to develop an **immersive, cultural VR experience** aligned with engagement and unintentional learning
 
+
+
 We developed the following narrative framework over Spring Quarter as a method to generalize our overwhelmingly positive and personable Mesa Verde prototype to other sites (see Winter Quarter user feedback). We started by defining the process flow we developed to create the Mesa Verde prototype and honed the documentation from there through an iterative design process. We worked with a half a dozen different sites from the Breakathon to sessions with site experts, developed detailed user feedback, and adjusted the narrative framework to optimize for scalability, creative inspiration, and the VR storytelling format. 
 
 
