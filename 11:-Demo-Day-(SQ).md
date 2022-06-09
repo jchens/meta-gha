@@ -1,4 +1,4 @@
-TODO to be finished after demo day is completed.
+Welcome to the summary of our deliverables for spring's demo day!
 
 # Poster
 
@@ -56,3 +56,22 @@ At the end, the user earns a stamp for their passport based on their score.
 
 # Narrative Framework
 
+### 👉 [Testing Template](https://docs.google.com/presentation/d/1bxN3BriuyvN8ASZgdeI4PTrzfCECModINgoXCOmURxg/edit?usp=sharing)
+This slide deck was developed to introduce site experts to our narrative framework and test how it helped them create stories for GHA. You can find more details about our [testing procedures & results here](https://github.com/cs210/2022-Meta2/wiki/09:-Narrative-Framework-User-Testing-Results-(SQ)).
+
+![Narrative Framework Test Template - Imagine](https://user-images.githubusercontent.com/17817708/172738470-51136f4e-92d5-4a8e-a651-8d703dfca426.png)
+
+![Narrative Framework Test Template - narrative framework elements](https://user-images.githubusercontent.com/17817708/172738474-8f2c376e-1000-4373-b281-5bb23dfcace4.png)
+
+![Narrative Framework Test Template - example](https://user-images.githubusercontent.com/17817708/172738479-7e527d16-3865-43ed-b31b-475b5ab6c3e6.png)
+
+![Narrative Framework Test Template - instructions](https://user-images.githubusercontent.com/17817708/172738483-0628776a-1dd3-4fb2-8d13-638f5daae6e2.png)
+
+### 👉 [Plot, User, Character info cards](https://docs.google.com/presentation/d/16jahZeKW-38RXu-W9_C6IInhlKpIBCkcpjUs8jy06zA/edit?usp=sharing)
+These info cards provide a condensed summary of the guidelines we used to brainstorm these key narrative elements for stories.
+
+![plot guidelines](https://user-images.githubusercontent.com/17817708/172738074-60519b73-5b18-4d4a-a38d-ef8139f97e38.png)
+
+![user info card](https://user-images.githubusercontent.com/17817708/172738080-649d97c1-993a-40e1-a3ab-4b1737e31470.png)
+
+![character info card](https://user-images.githubusercontent.com/17817708/172738084-6b9d63f1-5baa-41a4-8340-8d2d1d38d72c.png)
