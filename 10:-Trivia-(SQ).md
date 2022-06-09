@@ -50,6 +50,12 @@ At the end of the winter quarter, our initial trivia prototype in Figma was desi
 ## :star_struck: Core Component 1: Become the Star of the Show
 Drawing inspiration from popular television game shows, we wanted to provide a chance for the user to be the star of their own game show.  The first component engages the user by teleporting them into a platform that then raises into the stage. The setting is revealed to them as they enter the stage. In front of them are bright lights, pyro, and smoke. To their left and right are their competitors.
 
+![Screenshot (138)](https://user-images.githubusercontent.com/53293116/172818034-2089eb2d-4933-4eff-b263-48c11b57aead.png)
+
+![Screenshot (139)](https://user-images.githubusercontent.com/53293116/172818054-e7338e8d-758b-48a1-9590-691b41b15b9d.png)
+
+![Screenshot (122)](https://user-images.githubusercontent.com/53293116/172818081-3b6c04f4-e28b-45a6-bead-58b3577db3e7.png)
+
 ## :red_circle: Core Component 2: Quiz Buzzer
 Based on popular quiz and game show mechanics that utilize buzzers, we wanted to allow users to have that same mechanic when completing the trivia. Rather than just a single button, we opted to have four buttons color-coded to an answer option. This introduces a more dynamic way of answering questions and is paired with haptic feedback and a sound effect when pressed. Looking forward, the trivia game show could allow a variety of interactive mechanisms that are based on question-type such as prompting the user to draw something.
 ![Correct](https://user-images.githubusercontent.com/53293116/172774033-54d3a288-45a4-4366-8c4d-29829f9efd5d.png)
