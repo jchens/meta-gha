@@ -30,7 +30,7 @@ Users can choose to exit anytime to enter Mesa Verde's game show! We focused on 
 ### 👉 [Trivia Footage](https://drive.google.com/file/d/1NBYwp7e8uJNCEf7x8_lvvPAkxzF49c61/view?usp=sharing)
 <img width="620" alt="Screen Shot 2022-06-10 at 2 40 05 AM" src="https://user-images.githubusercontent.com/17817708/173038090-147ecf79-f5c8-449c-a236-a2e8b44b698e.png">
 
-### Walkthrough
+### 👉 Walkthrough
 
 To start off the game show, users are raised into the game arena as the announcer goes through introductions. 
 
