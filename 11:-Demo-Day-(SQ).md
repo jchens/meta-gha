@@ -27,9 +27,9 @@ Users can choose to exit anytime to enter Mesa Verde's game show! We focused on 
 
 ![Final Trivia Site View Overhead](https://user-images.githubusercontent.com/17817708/172732204-fac93565-cdf0-4cf3-b752-5408fbd8f827.png)
 
-### 👉 [Trivia Footage]
+### 👉 [Trivia Footage](https://drive.google.com/file/d/1NBYwp7e8uJNCEf7x8_lvvPAkxzF49c61/view?usp=sharing)
 
-All the details about our process for developing this trivia prototype [can be found here.](https://drive.google.com/file/d/1NBYwp7e8uJNCEf7x8_lvvPAkxzF49c61/view?usp=sharing)
+All the details about our process for developing this trivia prototype [can be found here.](https://github.com/cs210/2022-Meta2/wiki/10:-Trivia-(SQ))
 
 <img width="620" alt="Screen Shot 2022-06-10 at 2 40 05 AM" src="https://user-images.githubusercontent.com/17817708/173038090-147ecf79-f5c8-449c-a236-a2e8b44b698e.png">
 
