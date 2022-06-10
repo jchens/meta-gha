@@ -27,6 +27,8 @@ Users can choose to exit anytime to enter Mesa Verde's game show! We focused on 
 
 ![Final Trivia Site View Overhead](https://user-images.githubusercontent.com/17817708/172732204-fac93565-cdf0-4cf3-b752-5408fbd8f827.png)
 
+### 👉 [Trivia Footage](https://drive.google.com/file/d/1NBYwp7e8uJNCEf7x8_lvvPAkxzF49c61/view?usp=sharing)
+
 ### Walkthrough
 
 To start off the game show, users are raised into the game arena as the announcer goes through introductions. 
