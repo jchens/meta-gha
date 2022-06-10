@@ -28,6 +28,7 @@ Users can choose to exit anytime to enter Mesa Verde's game show! We focused on 
 ![Final Trivia Site View Overhead](https://user-images.githubusercontent.com/17817708/172732204-fac93565-cdf0-4cf3-b752-5408fbd8f827.png)
 
 ### 👉 [Trivia Footage](https://drive.google.com/file/d/1NBYwp7e8uJNCEf7x8_lvvPAkxzF49c61/view?usp=sharing)
+<img width="620" alt="Screen Shot 2022-06-10 at 2 40 05 AM" src="https://user-images.githubusercontent.com/17817708/173038090-147ecf79-f5c8-449c-a236-a2e8b44b698e.png">
 
 ### Walkthrough
 
@@ -53,6 +54,8 @@ Depending if an answer is correct or not, a notification appears on screen and t
 At the end, the user earns a stamp for their passport based on their score.
 
 <img width="1000" alt="Silver-Stamp" src="https://user-images.githubusercontent.com/17817708/172732703-a09ed340-5be9-42e5-98dd-3e6c26490117.png">
+
+![Trivia Updated Passport (1)](https://user-images.githubusercontent.com/17817708/173038128-6c8a7310-ef44-47d2-ae08-0a4f4e210e50.png)
 
 <img width="600" alt="Passport" src="https://user-images.githubusercontent.com/17817708/172736413-5ac8cf06-dd37-4709-8958-037e7b2bd857.png">
 
